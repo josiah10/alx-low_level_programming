@@ -22,7 +22,7 @@ int main(void)
 	{
 		printf("%i is negative\n", n);
 	}
-	else77
+	else
 	{
 		printf("%i is zero\n", n);
 	}
