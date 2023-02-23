@@ -1,14 +1,3 @@
-0x02. C - Functions, nested loops
-README.md
-
-
-0x02. C - Functions, nested loops
-
-
-
-0-putchar.c
-
-
 #include "main.h"
 
 /**
