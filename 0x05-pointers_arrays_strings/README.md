@@ -1,0 +1,1 @@
+c pointers array
